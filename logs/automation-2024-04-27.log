@@ -1,0 +1,53 @@
+21:45:25.369 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:45:25.386 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:45:25.387 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:45:25.387 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:45:25.389 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:45:25.390 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:45:25.393 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:45:25.393 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:45:25.394 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:45:25.394 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:45:25.407 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\syea1\AppData\Local\Temp\testng-eclipse--708021048\testng-customsuite.xml
+
+21:45:25.448 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 7 ms.
+21:45:25.717 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@5a021cb9: 97 ms
+21:45:25.874 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@600b0b7: 156 ms
+21:45:25.904 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@47747fb9: 28 ms
+21:45:25.930 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@344561e0: 26 ms
+21:45:25.950 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@329a1243: 18 ms
+21:45:25.964 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@581d969c: 14 ms
+21:45:25.965 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@22db8f4: 0 ms
+21:46:33.056 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\syea1\eclipse-workspace\ecommerceapp\master.xml"
+21:46:33.543 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\syea1\eclipse-workspace\ecommerceapp\master.xml
+
+21:46:39.943 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Starting TC_001_AccountRegistrationTest *****
+21:46:40.103 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My Account link
+21:46:40.593 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Registration link
+21:46:40.598 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details
+21:46:42.312 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Continue button
+21:46:42.315 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+21:46:42.396 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Finished TC_001_AccountRegistrationTest *****
+11:20:30.734 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\syea1\eclipse-workspace\ecommerceapp\master.xml"
+11:20:31.245 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\syea1\eclipse-workspace\ecommerceapp\master.xml
+
+11:20:59.201 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Starting TC_001_AccountRegistrationTest *****
+11:20:59.398 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My Account link
+11:21:01.764 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Registration link
+11:21:01.767 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details
+11:21:03.908 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Continue button
+11:21:03.911 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+11:21:04.006 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Finished TC_001_AccountRegistrationTest *****
+11:21:09.313 [main] INFO  testCases.TC_002_LoginTest - ***** Starting TC_002_LoginTest *****
+11:21:09.445 [main] INFO  testCases.TC_002_LoginTest - Clicked on My Account link
+11:21:09.730 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login link
+11:21:09.734 [main] INFO  testCases.TC_002_LoginTest - Entering login details
+11:21:10.737 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login button
+11:21:10.851 [main] INFO  testCases.TC_002_LoginTest - ***** Finished TC_002_LoginTest *****
+16:12:38.657 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\syea1\eclipse-workspace\ecommerceapp\master.xml"
+16:12:39.170 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\syea1\eclipse-workspace\ecommerceapp\master.xml
+
